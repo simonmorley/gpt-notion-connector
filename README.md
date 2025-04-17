@@ -15,7 +15,7 @@ A lightweight Flask API that converts Markdown to Notion blocks and either publi
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/notion-sync-api.git
+git clone https://github.com/simonmorley/gpt-notion-connector.git
 cd notion-sync-api
 ```
 
